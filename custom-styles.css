@@ -1,3 +1,15 @@
+body.CustomBody {
+    background-image: none;
+}
+
+.toolbar{
+    background-color: #F2F5F5;
+    background-image: none;
+    border-top: 2px solid #FFAA33;
+    border-bottom: 0px solid #FFFFFF;
+
+}
+
 header>img {
     top: 25px;
 }
