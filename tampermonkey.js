@@ -15,7 +15,7 @@
     jQuery('.LogoImg').attr('src', 'https://axxes.com/wp-content/themes/axxes/img/layout/logo.png');
     jQuery('.LogoImg').css('height', 'auto');
 
-    addCss('https://wiven.be/axxes/timesheet.css');
+    addCss('https://raw.githubusercontent.com/wivenwebsolutions/axxes-timesheet/master/custom-styles.css');
 })();
 
 function addCss(fileName) {
