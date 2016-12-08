@@ -17,3 +17,11 @@ body.CustomBody {
 header>img {
     top: 25px;
 }
+
+#SubLabel {
+    opacity: 0;
+}
+
+#LoginName {
+    opacity: 0;
+}
