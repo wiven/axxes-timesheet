@@ -5,7 +5,7 @@
 // @description  Custom styling for the timesheet
 // @author       Wim Vandevenne
 // @match        https://timesheet.axxes.com/default.aspx
-// @copyright    2016+, Wim Vandevenne
+// @copyright    2016+, Wim Vandevenne & Arno Chauveau
 // @grant        none
 // ==/UserScript==
 
