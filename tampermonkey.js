@@ -12,13 +12,13 @@
 (function() {
     'use strict';
 
-    jQuery('.LogoImg').attr('src', 'https://wivenwebsolutions.github.io/axxes-timesheet/img/logo.png');
+    jQuery('.LogoImg').attr('src', 'https://wiven.github.io/axxes-timesheet/img/logo.png');
     jQuery('.LogoImg').css('height', 'auto');
 
     // append username to welcome message
     jQuery('#MainLabel').append(' '+jQuery('#LoginName').text());
 
-    addCss('https://wivenwebsolutions.github.io/axxes-timesheet/custom-styles.css');
+    addCss('https://wiven.github.io/axxes-timesheet/custom-styles.css');
 })();
 
 function addCss(fileName) {

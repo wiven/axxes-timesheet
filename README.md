@@ -14,7 +14,7 @@ Enhancement of the [Axxes IT timesheet](https://timesheet.axxes.com/default.aspx
 // @match        https://timesheet.axxes.com/default.aspx
 // @copyright    2016+, Wim Vandevenne & Arno Chauveau
 // @grant        none
-// @require      https://wivenwebsolutions.github.io/axxes-timesheet/tampermonkey.js
+// @require      https://wiven.github.io/axxes-timesheet/tampermonkey.js
 // ==/UserScript==
 
 ```
