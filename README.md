@@ -1,5 +1,5 @@
 # Axxes timesheet
-Enhancement of the [Axxes IT timesheet](https://timesheet.axxes.com/default.aspx).
+Enhancement of the [Axxes IT timesheet](https://timesheet.axxes.com).
 
 ## Installation
 - Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) in Google Chrome.<br />
@@ -8,15 +8,15 @@ Enhancement of the [Axxes IT timesheet](https://timesheet.axxes.com/default.aspx
 // ==UserScript==
 // @name         Axxes timesheet
 // @namespace    Axxes timesheet
-// @version      0.1
+// @version      0.5
 // @description  Custom styling for the timesheet
-// @author       Wim Vandevenne
-// @match        https://timesheet.axxes.com/default.aspx
+// @author       Wim Vandevenne & Arno Chauveau
+// @match        https://timesheet.axxes.com/*
 // @copyright    2016+, Wim Vandevenne & Arno Chauveau
 // @grant        none
 // @require      https://wiven.github.io/axxes-timesheet/tampermonkey.js
 // ==/UserScript==
 
 ```
-- Go to [https://timesheet.axxes.com/default.aspx](https://timesheet.axxes.com/default.aspx) and log in.
+- Go to [https://timesheet.axxes.com](https://timesheet.axxes.com) and log in.
 - Enjoy an enhanced timesheet experience!
